@@ -1,3 +1,5 @@
 # BracketBalancer
-BracketBalancing using Stack Data structure 
-(bracket/stack-().png)
+
+bracket balancing using the stack data structure.
+
+![Bracket Stack](bracket/stack-().png)
