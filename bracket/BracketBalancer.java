@@ -28,7 +28,7 @@ public class BracketBalancer {
 
     public static void main(String[] args) {
 
-        //taking user input
+        //taking 3 user input
         Scanner scanner=new Scanner(System.in);
 
         System.out.println("Enter input 1");
